@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Luxury Car Retail Website**
 
-- 🌱 I’m currently learning **Python : Flask / Javascript : React**
+- 🌱 I’m currently learning **Python : Flask**
 
 - 📫 How to reach me **Dayrom1998@gmail.com**
 
